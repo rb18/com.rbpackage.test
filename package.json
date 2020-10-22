@@ -1,0 +1,23 @@
+{
+  "name": "com.rbpackage.test",
+  "displayName": "Unity Custom Package Test",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "author": "Ridvan BAL",
+  "description": "This project is cretaed to test How to create custom package process",
+  "keywords": [
+    "test",
+    "package",
+    "custom",
+    "backup"
+  ],
+  "dependencies":
+  {
+      
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.cds.internal.unity3d.com/upm-packages/cloud-services/collab-proxy.git",
+    "revision": "070e173b6a36e1d6097b1d95e09c08840c23f6ca"
+  }
+}
